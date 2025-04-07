@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+smtplib
+openai
+pillow
+pygame
