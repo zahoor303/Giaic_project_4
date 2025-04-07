@@ -1,4 +1,6 @@
 Python-Assignment-04
+
+
 Python Mini Projects Collection Welcome to my collection of small Python projects! These projects are built for learning, practice, and improving programming skills. Each project is simple yet a great way to strengthen Python fundamentals.
 
 📜 List of Projects BMI Calculator – A simple tool to calculate Body Mass Index based on user's height and weight.
